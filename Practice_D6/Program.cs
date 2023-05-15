@@ -1,4 +1,4 @@
-﻿namespace Day_s_Problem
+﻿namespace Week2
 {
     internal class Program
     {
