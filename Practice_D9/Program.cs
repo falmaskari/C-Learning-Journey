@@ -11,18 +11,14 @@
             Wednesday,
             Thursday,
             Friday,
-        }*/
+        }
         static void Main(string[] args)
         {
-            Patient patient = new Patient();
-            patient.Choose();
-            /*Days Days = Days.Tuesday;
+            Days Days = Days.Tuesday;
             Console.WriteLine(Days);
 
             Days Days1 = Days.Tuesday;
-            Console.WriteLine((int)Days1);*/
-        }
-        
-            
+            Console.WriteLine((int)Days1);
+        }   
     }
 }
