@@ -1,8 +1,8 @@
-﻿namespace Enum
+namespace Enum
 {
     internal class Program
     {
-        /*enum Days
+        enum Days
         {
             Saturday = 123456789,
             Sunday,
