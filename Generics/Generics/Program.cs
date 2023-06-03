@@ -13,8 +13,7 @@ namespace Generics
             arr.add(4);
             arr.add(5);
             arr.remove(0);
-           arr.display(); 
-
+            arr.display(); 
         }
     }
 }
